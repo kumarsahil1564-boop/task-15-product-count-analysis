@@ -1,0 +1,31 @@
+Product ID,Product Name,Category,Sub-Category
+P001,Laptop Stand,Technology,Accessories
+P002,Wireless Mouse,Technology,Accessories
+P003,Keyboard,Technology,Accessories
+P004,Monitor,Technology,Accessories
+P005,USB Hub,Technology,Accessories
+P006,Printer,Technology,Machines
+P007,Ink Cartridge,Technology,Supplies
+P008,Headphones,Technology,Accessories
+P009,Webcam,Technology,Accessories
+P010,External Hard Drive,Technology,Storage
+P011,Notebook,Office Supplies,Paper
+P012,Pen Set,Office Supplies,Writing
+P013,Printer Paper,Office Supplies,Paper
+P014,Stapler,Office Supplies,Fasteners
+P015,File Folder,Office Supplies,Storage
+P016,Marker Set,Office Supplies,Writing
+P017,Envelope Pack,Office Supplies,Envelopes
+P018,Sticky Notes,Office Supplies,Paper
+P019,Desk Organizer,Office Supplies,Storage
+P020,Binder,Office Supplies,Binders
+P021,Office Chair,Furniture,Chairs
+P022,Desk,Furniture,Tables
+P023,Bookshelf,Furniture,Bookcases
+P024,Filing Cabinet,Furniture,Storage
+P025,Conference Table,Furniture,Tables
+P026,Ergonomic Chair,Furniture,Chairs
+P027,Side Table,Furniture,Tables
+P028,Reception Chair,Furniture,Chairs
+P029,Storage Cabinet,Furniture,Storage
+P030,Office Desk,Furniture,Tables
