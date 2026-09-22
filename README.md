@@ -28,6 +28,7 @@ This project analyzes product data by category. The main objective is to count t
 
 ```excel
 =COUNTIF(C:C,A2)
+
 ## 📂 Project Files
 
 - `product_count_data.csv` – Product dataset
